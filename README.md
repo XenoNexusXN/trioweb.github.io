@@ -1,3 +1,3 @@
-# trioweb.github.io
-The Official (Released) Triolux Website with Link-To-Bio links and Game Redirectories.
+# nebulixring.github.io
+The Official (Released) nebulix Website with Link-To-Bio links and Game Redirectories.
 ###### https://xenonexusxn.github.io/nebulixring.github.io/
